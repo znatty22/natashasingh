@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(../images/delauney-triangles.svg);
+    background-color: #111111;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.name-text {
+    opacity: 0.8;
+    font-size: 36px	;
+	letter-spacing: 6px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.text-white {
+	color:#f2f2f2
+}
+
+.text-muted {
+    color: #c2c2c2;
+}
+
+.accent-light-green {
+	color: #ceff00
+}
+
+.accent-neon-yellow {
+    color: #eeff00
+}
+
+.center {
+  display: block;
+  margin-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: auto;
+}
+
+#logo {
+    opacity: 0.8
+}
